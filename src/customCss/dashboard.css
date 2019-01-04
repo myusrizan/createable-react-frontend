@@ -1,0 +1,69 @@
+.bg-db {
+  background-image: url("../assets/img/db-new.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 590px;
+}
+
+.bg-db2 {
+  background-image: url("../assets/img/parralaxBlurred.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 590px;
+  position: relative;
+}
+
+.wordBox {
+  float: left;
+  width: 530px;
+  height: 190px;
+  margin-left: 5.5%;
+  margin-top: 16%;
+  background-color: transparent;
+  font-family: RobotoRegular;
+}
+
+.ideaWordTop {
+  line-height: 100%;
+  font-size: 50px;
+  color: white;
+}
+
+.ideaWordBot {
+  font-size: 30px;
+  line-height: 100%;
+  color: white;
+  margin-bottom: 12px;
+  margin-top: 12px;
+  font-family: RobotoLight;
+}
+
+.btn-fnt {
+  font-family: RobotoLight;
+}
+
+.dbMenu {
+  width: 80%;
+  margin-left: 5.5%;
+  margin-top: 1rem;
+  text-align: left;
+}
+
+.bigBox {
+  padding-top: 40px;
+  padding-bottom: 40px;
+ padding-left: 15%;
+ padding-right: 15%;
+}
+
+.teambox{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottom{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}

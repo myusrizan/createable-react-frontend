@@ -1,0 +1,100 @@
+.atasInvest {
+    margin-right: 5.5%;
+    margin-left: 5.5%;
+    margin-top: 3%;
+    padding-bottom: 15px;
+    background-color: lightgrey;
+}
+
+.divInvest {
+    margin-right: 5.5%;
+    margin-left: 5.5%;
+    margin-top: 3%;
+}
+.judulInvest {
+    font-family: RobotoRegular;
+    font-size: 30px;
+}
+.judul2Invest {
+    margin-top: 2px;
+    font-family: RobotoLight;
+    font-size: 15px;
+}
+
+.atasInvest {
+    margin-right: 5.5%;
+    margin-left: 5.5%;
+    margin-top: 6px;
+    padding-bottom: 15px;
+}
+
+.rightKolom {
+    margin-top: 2.5%;
+    padding-right: 30px;
+}
+
+.imgProfile {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 180px;
+    height: 200px;
+}
+  
+.leftKolom {
+    width: 220px;
+    margin-left: 30px;
+}
+  
+.socIkon {
+    width: 180px;
+    letter-spacing: 5px;
+}
+
+.menuInvest {
+    margin-bottom: 5px;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+    margin-top: 10px;
+}
+
+.colInvestBawah{
+    margin-bottom: 4px;
+    margin-left: 5.5%;
+    margin-right: 5.5%;
+}
+
+.tdStyle{
+    font-family: RobotoLight;
+    font-size: 10px;
+}
+
+.thStyle{
+    font-size: 12px;
+    margin-bottom: 2px;
+}
+.thStyle2{
+    font-size: 14px;
+    font-family: RobotoLight;
+    margin-bottom: 2px;
+}
+
+.thStyle3{
+    font-size: 16px;
+    font-family: RobotoLight;
+    margin-bottom: 2px;
+}
+
+.detailButton{
+    width: 165px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.detailInvestBtn{
+    width: 50px;
+}
+.styleProgress{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

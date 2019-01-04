@@ -1,0 +1,49 @@
+.whiteBoard {
+}
+
+.border-img {
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+}
+
+.ant-layout-footer {
+  padding: 24px 0px;
+  background: black;
+}
+
+.gutter-example {
+  background: "black";
+  min-height: 200px;
+}
+.op-glob {
+  opacity: 0.418;
+}
+.gutter-box {
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+}
+
+.underNavbar {
+  background-color: lightgrey;
+  min-height: 450px;
+  padding-top: 90px;
+  padding-bottom: 60px;
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+.text-align-justify {
+  text-align: justify;
+}
+
+.bg-cl-bl {
+  background-color: black;
+}
+
+.ant-card-cover img {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}

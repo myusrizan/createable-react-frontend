@@ -1,0 +1,36 @@
+.bg-re {
+    background-image: url("../assets/img/bgidea.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 590px;
+}
+
+.textRe{
+  font-family: RobotoLight;
+  font-size: 25px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+.textInputRe{
+  font-family: RobotoLight;
+  font-size: 12px;
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+
+.ant-card-body{
+  padding: 5px;
+}
+
+.registBtn{
+  width: 80px;
+}
+
+.imgRegister{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 109px;
+    border-radius: 10px;
+}
+  

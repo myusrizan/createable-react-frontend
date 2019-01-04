@@ -1,0 +1,48 @@
+.detailAtas {
+  margin-right: 5.5%;
+  margin-left: 5.5%;
+  margin-top: 5%;
+  padding-bottom: 15px;
+  background-color: lightgrey;
+}
+
+.detailBawah {
+  margin-right: 5.5%;
+  margin-left: 5.5%;
+  padding-top: 20px;
+}
+
+.profilePic {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 180px;
+  height: 200px;
+}
+
+.leftCollumn {
+  width: 220px;
+  margin-left: 30px;
+}
+
+.rightCollumn {
+  margin-top: 23px;
+  padding-right: 30px;
+}
+.detailIdeaBtn {
+  margin-top: 2px;
+}
+
+.linkSoc {
+  width: 180px;
+  letter-spacing: 5px;
+}
+
+.perColumn {
+  padding: 15px;
+}
+.tableStyle {
+  width: 100%;
+}
+.tableR {
+  text-align: right;
+}

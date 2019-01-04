@@ -1,0 +1,43 @@
+.bg-si {
+    background-image: url("../assets/img/bgidea.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 590px;
+}
+
+.textIdea{
+  font-family: RobotoLight;
+  font-size: 20px;
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
+.textInputIdea{
+  font-family: RobotoLight;
+  font-size: 15px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.textAreaIdea{
+  font-family: RobotoLight;
+  font-size: 17px;
+  padding-top: 50px;
+  padding-bottom: 50px; 
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.ant-card-body{
+  padding: 5px;
+}
+
+.shareIdeaBtn{
+  width: 145px;
+}
+
+.hrIdea{
+margin-top: 0rem;
+margin-bottom: 1rem;
+border: 0;
+width: 60%;
+border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
